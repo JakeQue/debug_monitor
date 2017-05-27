@@ -1,4 +1,4 @@
-//	This is optional. Only needed if you wan the debug on when player logs in.	
+//	This is optional. Only needed if you want the debug on when player logs in.	
 
 
 	//Above
